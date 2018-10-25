@@ -27,22 +27,22 @@ To get an API key see the section prerequisites<br />
 # Features:<br />
 
 Following Details are displayed to User as Weather Forecasting:<br />
-1.Temprature                (in celcius)<br />
-2.Minimum temprature        (in celcius)<br />
-3.Maximum temprature        (in celcius)<br />
-4.Humidity<br />
-5.Weather status<br />
-6.Weather Description<br />
-7.Wind Speed<br />
+1. Temprature                (in celcius)<br />
+2. Minimum temprature        (in celcius)<br />
+3. Maximum temprature        (in celcius)<br />
+4. Humidity<br />
+5. Weather status<br />
+6. Weather Description<br />
+7. Wind Speed<br />
 
 # Additional Features-:<br />
 
-1.Data will be stored in a file WeatherForecast.txt with a Heading date and time it was requested.<br />
+1. Data will be stored in a file WeatherForecast.txt with a Heading date and time it was requested.<br />
 
-2.Adding DemoData.txt file with demo data fetched from API as json data to understand functionalities.<br />
+2. Adding DemoData.txt file with demo data fetched from API as json data to understand functionalities.<br />
 
-3.Adding UnderstandingList.txt file to get more deeper knowledge about using fetched data from API. This file specifice how data for each day and every 3 hours stored in Json and how it can be used. This file can be helpful to understand API data and dig into more deeper functionalities.<br />
+3. Adding UnderstandingList.txt file to get more deeper knowledge about using fetched data from API. This file specifice how data for each day and every 3 hours stored in Json and how it can be used. This file can be helpful to understand API data and dig into more deeper functionalities.<br />
 
-4.Adding file getWeatherNow to get weather details for now.<br />
+4. Adding file getWeatherNow to get weather details for now.<br />
 
 
