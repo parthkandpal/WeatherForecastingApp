@@ -1,0 +1,704 @@
+                 Data Requested on  2018-10-25 21:44:57.367903
+       
+                        ----------------------------------2018-10-25 18:00:00----------------------------------
+
+                                Temprature=  11.18 degree celsius
+
+                                Minimum temprature =  11.18    degree celsius
+
+                                Maximum temprature=    11.18   degree celsius
+
+                                Humidity = 65
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.61    
+
+        
+       
+                        ----------------------------------2018-10-25 21:00:00----------------------------------
+
+                                Temprature=  10.32 degree celsius
+
+                                Minimum temprature =  10.32    degree celsius
+
+                                Maximum temprature=    10.32   degree celsius
+
+                                Humidity = 59
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.77    
+
+            
+       
+                        ----------------------------------2018-10-26 00:00:00----------------------------------
+
+                                Temprature=  9.03 degree celsius
+
+                                Minimum temprature =  9.02    degree celsius
+
+                                Maximum temprature=    9.03   degree celsius
+
+                                Humidity = 61
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.67    
+
+                    
+       
+                        ----------------------------------2018-10-26 03:00:00----------------------------------
+
+                                Temprature=  14.34 degree celsius
+
+                                Minimum temprature =  14.34    degree celsius
+
+                                Maximum temprature=    14.34   degree celsius
+
+                                Humidity = 47
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.17    
+
+                    
+   
+                        ----------------------------------2018-10-26 06:00:00----------------------------------
+
+                                Temprature=  21.62 degree celsius
+
+                                Minimum temprature =  21.62    degree celsius
+
+                                Maximum temprature=    21.62   degree celsius
+
+                                Humidity = 42
+
+                                Weather = Clouds , few clouds 
+
+
+                                Wind Speed = 0.71    
+
+                            
+       
+                        ----------------------------------2018-10-26 09:00:00----------------------------------
+
+                                Temprature=  22.28 degree celsius
+
+                                Minimum temprature =  22.28    degree celsius
+
+                                Maximum temprature=    22.28   degree celsius
+
+                                Humidity = 42
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.06    
+
+                            
+       
+                        ----------------------------------2018-10-26 12:00:00----------------------------------
+
+                                Temprature=  17.02 degree celsius
+
+                                Minimum temprature =  17.02    degree celsius
+
+                                Maximum temprature=    17.02   degree celsius
+
+                                Humidity = 52
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.81    
+
+                            
+
+                        ----------------------------------2018-10-26 15:00:00----------------------------------
+
+                                Temprature=  9.87 degree celsius
+
+                                Minimum temprature =  9.87    degree celsius
+
+                                Maximum temprature=    9.87   degree celsius
+
+                                Humidity = 79
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.76    
+
+                            
+       
+
+                        ----------------------------------2018-10-26 00:00:00----------------------------------
+
+                                Temprature=  9.44 degree celsius
+
+                                Minimum temprature =  9.44    degree celsius
+
+                                Maximum temprature=    9.44   degree celsius
+
+                                Humidity = 75
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.76    
+
+            
+       
+
+                        ----------------------------------2018-10-26 21:00:00----------------------------------
+
+                                Temprature=  10.4 degree celsius
+
+                                Minimum temprature =  10.4    degree celsius
+
+                                Maximum temprature=    10.4   degree celsius
+
+                                Humidity = 62
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.5    
+
+                
+       
+
+                        ----------------------------------2018-10-27 00:00:00----------------------------------
+
+                                Temprature=  9.67 degree celsius
+
+                                Minimum temprature =  9.67    degree celsius
+
+                                Maximum temprature=    9.67   degree celsius
+
+                                Humidity = 57
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.51    
+
+                        
+       
+
+                        ----------------------------------2018-10-27 03:00:00----------------------------------
+
+                                Temprature=  14.88 degree celsius
+
+                                Minimum temprature =  14.88    degree celsius
+
+                                Maximum temprature=    14.88   degree celsius
+
+                                Humidity = 47
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.06    
+
+                        
+       
+                        ----------------------------------2018-10-27 06:00:00----------------------------------
+
+                                Temprature=  21.89 degree celsius
+
+                                Minimum temprature =  21.89    degree celsius
+
+                                Maximum temprature=    21.89   degree celsius
+
+                                Humidity = 42
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.01    
+
+                                
+       
+                        ----------------------------------2018-10-27 09:00:00----------------------------------
+
+                                Temprature=  22.36 degree celsius
+
+                                Minimum temprature =  22.36    degree celsius
+
+                                Maximum temprature=    22.36   degree celsius
+
+                                Humidity = 40
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.06    
+
+                                
+       
+
+                        ----------------------------------2018-10-27 12:00:00----------------------------------
+
+                                Temprature=  17.02 degree celsius
+
+                                Minimum temprature =  17.02    degree celsius
+
+                                Maximum temprature=    17.02   degree celsius
+
+                                Humidity = 53
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.92    
+
+                                
+       
+
+                         ----------------------------------2018-10-27 15:00:00----------------------------------
+
+                                Temprature=  9.84 degree celsius
+
+                                Minimum temprature =  9.84    degree celsius
+
+                                Maximum temprature=    9.84   degree celsius
+
+                                Humidity = 88
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.76    
+
+                                
+       
+
+                                2018-10-26 03:00:00
+
+            Temprature=  10.25
+
+            Minimum temprature =  10.25
+
+            Maximum temprature=    10.25
+
+            Humidity = 71
+
+            Weather = Clear , clear sky 
+
+
+            Wind Speed = 1.65
+
+            
+       
+
+                        ----------------------------------2018-10-27 21:00:00----------------------------------
+
+                                Temprature=  7.51 degree celsius
+
+                                Minimum temprature =  7.51    degree celsius
+
+                                Maximum temprature=    7.51   degree celsius
+
+                                Humidity = 70
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.95    
+
+                
+       
+
+                        ----------------------------------2018-10-28 00:00:00----------------------------------
+
+                                Temprature=  5.82 degree celsius
+
+                                Minimum temprature =  5.82    degree celsius
+
+                                Maximum temprature=    5.82   degree celsius
+
+                                Humidity = 66
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.96    
+
+                        
+       
+                        ----------------------------------2018-10-28 03:00:00----------------------------------
+
+                                Temprature=  13.57 degree celsius
+
+                                Minimum temprature =  13.57    degree celsius
+
+                                Maximum temprature=    13.57   degree celsius
+
+                                Humidity = 50
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.37    
+
+                        
+       
+
+                        ----------------------------------2018-10-28 06:00:00----------------------------------
+
+                                Temprature=  22.03 degree celsius
+
+                                Minimum temprature =  22.03    degree celsius
+
+                                Maximum temprature=    22.03   degree celsius
+
+                                Humidity = 39
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.07    
+
+                                
+       
+
+                        ----------------------------------2018-10-28 09:00:00----------------------------------
+
+                                Temprature=  22.98 degree celsius
+
+                                Minimum temprature =  22.98    degree celsius
+
+                                Maximum temprature=    22.98   degree celsius
+
+                                Humidity = 35
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.07    
+
+                                
+       
+
+                        ----------------------------------2018-10-28 12:00:00----------------------------------
+
+                                Temprature=  17.31 degree celsius
+
+                                Minimum temprature =  17.31    degree celsius
+
+                                Maximum temprature=    17.31   degree celsius
+
+                                Humidity = 52
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.86    
+
+                                
+       
+
+                        ----------------------------------2018-10-28 15:00:00----------------------------------
+
+                                Temprature=  9.86 degree celsius
+
+                                Minimum temprature =  9.86    degree celsius
+
+                                Maximum temprature=    9.86   degree celsius
+
+                                Humidity = 85
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.72    
+   
+
+                                
+       
+
+                        ----------------------------------2018-10-26 06:00:00----------------------------------
+
+                                Temprature=  7.96 degree celsius
+
+                                Minimum temprature =  7.96    degree celsius
+
+                                Maximum temprature=    7.96   degree celsius
+
+                                Humidity = 80
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.32    
+
+
+            
+       
+
+                        ----------------------------------2018-10-28 21:00:00----------------------------------
+
+                                Temprature=  8.72 degree celsius
+
+                                Minimum temprature =  8.72    degree celsius
+
+                                Maximum temprature=    8.72   degree celsius
+
+                                Humidity = 63
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.41    
+
+                
+       
+
+                        ----------------------------------2018-10-29 00:00:00----------------------------------
+
+                                Temprature=  7.52 degree celsius
+
+                                Minimum temprature =  7.52    degree celsius
+
+                                Maximum temprature=    7.52   degree celsius
+
+                                Humidity = 55
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.31    
+
+                        
+       
+
+                        ----------------------------------2018-10-29 03:00:00----------------------------------
+
+                                Temprature=  16.21 degree celsius
+
+                                Minimum temprature =  16.21    degree celsius
+
+                                Maximum temprature=    16.21   degree celsius
+
+                                Humidity = 48
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.02    
+
+                        
+       
+
+                        ----------------------------------2018-10-29 06:00:00----------------------------------
+
+                                Temprature=  23.6 degree celsius
+
+                                Minimum temprature =  23.6    degree celsius
+
+                                Maximum temprature=    23.6   degree celsius
+
+                                Humidity = 40
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.96    
+
+                                
+       
+                        ----------------------------------2018-10-29 09:00:00----------------------------------
+
+                                Temprature=  24.36 degree celsius
+
+                                Minimum temprature =  24.36    degree celsius
+
+                                Maximum temprature=    24.36   degree celsius
+
+                                Humidity = 36
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.97    
+
+
+                                
+       
+                        ----------------------------------2018-10-29 12:00:00----------------------------------
+
+                                Temprature=  17.98 degree celsius
+
+                                Minimum temprature =  17.98    degree celsius
+
+                                Maximum temprature=    17.98   degree celsius
+
+                                Humidity = 55
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.91    
+
+                                
+       
+                        ----------------------------------2018-10-29 15:00:00----------------------------------
+
+                                Temprature=  9.34 degree celsius
+
+                                Minimum temprature =  9.34    degree celsius
+
+                                Maximum temprature=    9.34   degree celsius
+
+                                Humidity = 86
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.61    
+
+                                
+       
+                        ----------------------------------2018-10-26 06:00:00----------------------------------
+
+                                Temprature=  6.84 degree celsius
+
+                                Minimum temprature =  6.84    degree celsius
+
+                                Maximum temprature=    6.84   degree celsius
+
+                                Humidity = 77
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.16    
+
+
+            
+       
+                        ----------------------------------2018-10-29 21:00:00----------------------------------
+
+                                Temprature=  8.47 degree celsius
+
+                                Minimum temprature =  8.47    degree celsius
+
+                                Maximum temprature=    8.47   degree celsius
+
+                                Humidity = 60
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.42    
+
+                
+       
+                        ----------------------------------2018-10-30 00:00:00----------------------------------
+
+                                Temprature=  7.08 degree celsius
+
+                                Minimum temprature =  7.08    degree celsius
+
+                                Maximum temprature=    7.08   degree celsius
+
+                                Humidity = 44
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.87    
+
+                        
+       
+                        ----------------------------------2018-10-30 03:00:00----------------------------------
+
+                                Temprature=  13.36 degree celsius
+
+                                Minimum temprature =  13.36    degree celsius
+
+                                Maximum temprature=    13.36   degree celsius
+
+                                Humidity = 42
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.06    
+
+                        
+       
+                        ----------------------------------2018-10-30 06:00:00----------------------------------
+
+                                Temprature=  21.13 degree celsius
+
+                                Minimum temprature =  21.13    degree celsius
+
+                                Maximum temprature=    21.13   degree celsius
+
+                                Humidity = 43
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.96    
+
+                                
+       
+                    
+                        ----------------------------------2018-10-30 09:00:00----------------------------------
+
+                                Temprature=  21.96 degree celsius
+
+                                Minimum temprature =  21.96    degree celsius
+
+                                Maximum temprature=    21.96   degree celsius
+
+                                Humidity = 42
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.11    
+
+                                
+
+                        ----------------------------------2018-10-30 12:00:00----------------------------------
+
+                                Temprature=  16.72 degree celsius
+
+                                Minimum temprature =  16.72    degree celsius
+
+                                Maximum temprature=    16.72   degree celsius
+
+                                Humidity = 58
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 1.01    
+                                                    
+                                
+       
+                        ----------------------------------2018-10-30 15:00:00----------------------------------
+
+                                Temprature=  8.99 degree celsius
+
+                                Minimum temprature =  8.99    degree celsius
+
+                                Maximum temprature=    8.99   degree celsius
+
+                                Humidity = 89
+
+                                Weather = Clear , clear sky 
+
+
+                                Wind Speed = 0.76    
+
+                                

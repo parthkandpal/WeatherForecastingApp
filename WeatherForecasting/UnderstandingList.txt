@@ -1,0 +1,53 @@
+
+
+'''list[0]-day1 first 3 hours
+    list[1]-day1 2nd 3 hours
+    list[2]-day1 3rd 3 hours
+    list[3]-day1 4th 3 hours
+    list[4]-day1 5th 3 hours
+    list[5]-day1 6th 3 hours
+    list[6]-day1 7th 3 hours
+    list[7]-day1 8th 3 hours
+
+
+    list[8]-day2 first 3 hours
+    list[9]-day2 2nd 3 hours
+    list[10]-day2 3rd 3 hours
+    list[11]-day2 4th 3 hours
+    list[12]-day2 5th 3 hours
+    list[13]-day2 6th 3 hours
+    list[14]-day2 7th 3 hours
+    list[15]-day2 8th 3 hours
+
+    list[16]-day3 first 3 hours
+    list[17]-day3 2nd 3 hours
+    list[18]-day3 3rd 3 hours
+    list[19]-day3 4th 3 hours
+    list[20]-day3 5th 3 hours
+    list[21]-day3 6th 3 hours
+    list[22]-day3 7th 3 hours
+    list[23]-day3 8th 3 hours
+
+
+    list[24]-day4 first 3 hours
+    list[25]-day4 2nd 3 hours
+    list[26]-day4 3rd 3 hours
+    list[27]-day4 4th 3 hours
+    list[28]-day4 5th 3 hours
+    list[29]-day4 6th 3 hours
+    list[30]-day4 7th 3 hours
+    list[31]-day4 8th 3 hours
+
+
+    list[32]-day5 first 3 hours
+    list[33]-day5 2nd 3 hours
+    list[34]-day5 3rd 3 hours
+    list[35]-day5 4th 3 hours
+    list[36]-day5 5th 3 hours
+    list[37]-day5 6th 3 hours
+    list[38]-day5 7th 3 hours
+    list[39]-day5 8th 3 hours
+
+
+
+'''
